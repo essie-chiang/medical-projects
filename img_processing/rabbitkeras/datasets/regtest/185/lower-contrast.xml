@@ -1,0 +1,20 @@
+<annotation>
+    <folder>185</folder>
+    <filename>lower-contrast.png</filename>
+    <size>
+        <width>96</width>
+        <height>96</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Brain</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+    </object>
+</annotation>

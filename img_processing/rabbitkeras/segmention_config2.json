@@ -1,0 +1,23 @@
+{
+  "exp_name": "SegBrain",
+  "task": "aug",
+  "ratio": "0.9",
+  "suffix": "png",
+  "mask_data_dir": "data_rabbit_head_input_data",
+  "pic_data_dir": "data_rabbit_head_input_data",
+  "dicom_data_dir" : "dicom_data",
+  "hdf5_path" : "aug",
+  "checkpoint" : "aug",
+  "epochs": 20,
+  "batch_size": 2,
+  "no_flag": "no",
+  "low_flag": "low",
+  "full_flag": "full",
+  "brain_label_flag": "full",
+  "vessel_label_flag": "full",
+  "mask_on": false,
+  "height": 240,
+  "width": 240,
+  "seg_num": 1,
+  "layers": 3
+}

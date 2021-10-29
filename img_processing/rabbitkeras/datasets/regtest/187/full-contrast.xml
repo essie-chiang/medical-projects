@@ -1,0 +1,26 @@
+<annotation>
+    <folder>187</folder>
+    <filename>full-contrast.png</filename>
+    <size>
+        <width>96</width>
+        <height>96</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Brain</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+        <bndbox>
+            <xmin>16</xmin>
+            <ymin>33</ymin>
+            <xmax>80</xmax>
+            <ymax>85</ymax>
+        </bndbox>
+    </object>
+</annotation>
